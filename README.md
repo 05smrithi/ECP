@@ -54,14 +54,14 @@ OUTPUT
 (i) Serial Port Transfer a Single Character
 
 
+<img width="1919" height="1077" alt="Screenshot 2026-08-14 083447" src="https://github.com/user-attachments/assets/e6281d9a-1057-48de-b788-c4f5cc1eb1ec" />
 
 
 
 
 (ii) Serial Port to Transfer a Message
 
-
-
+<img width="1919" height="1078" alt="Screenshot 2026-08-14 083755" src="https://github.com/user-attachments/assets/a0cea786-58d8-424e-aa23-e51a83ecc909" />
 
 
 
